@@ -9,8 +9,8 @@ Este repositório contém consultas e exercícios em SQL, organizados para prát
 - `consultas_avancadas.sql` → subqueries, CTEs, funções de janela  
 
 ## 🚀 Tecnologias
-- MySQL / SQLite  
-- DBeaver (para execução)  
+- MySQL / MariaDB / SQLite  
+- DBeaver e Postgresql (para execução)  
 
 ---
 💡 Objetivo: praticar consultas SQL voltadas para **Análise de Dados**.
