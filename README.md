@@ -29,7 +29,7 @@ Abaixo estão as representações visuais da estrutura e das regras de negócio 
 #### 1. Modelo Conceitual (Estrutura de Atributos)
 Representação inicial e visual das entidades do sistema e seus respectivos campos mapeados.
 <p align="center">
-  <img src="Entidades_relacionadas.png" alt="Modelo Conceitual do Banco de Dados" width="85%">
+  <img src="Entidades_relacao.png" alt="Modelo Conceitual do Banco de Dados" width="85%">
 </p>
 
 #### 2. Modelo Lógico (Relacionamentos)
