@@ -24,24 +24,24 @@ Este repositório contém consultas, exercícios e projetos práticos em SQL, or
 
 ## 📐 Modelagem e Diagramas de Banco de Dados
 
-Abaixo estão as representações visuais da estrutura e das regras de negócio das tabelas utilizadas nestes estudos, divididas por seus níveis de abstração:
+Abaixo estão as representações visuais da estrutura e das regras de negócio das tabelas utilizadas nestes estudos, de tema como exemeplo uma gestão de uma loja, divididas por seus níveis de abstração:
 
 #### 1. Modelo Conceitual (Estrutura de Atributos)
 Representação inicial e visual das entidades do sistema e seus respectivos campos mapeados.
 <p align="center">
-  <img src="modelo_conceitual.png" alt="Modelo Conceitual do Banco de Dados" width="85%">
+  <img src="Entidades_relacionadas.png" alt="Modelo Conceitual do Banco de Dados" width="85%">
 </p>
 
 #### 2. Modelo Lógico (Relacionamentos)
 Mapeamento lógico evidenciando as conexões e a cardinalidade entre as tabelas de Clientes, Fornecedores, Produtos, Vendedores e Vendas.
 <p align="center">
-  <img src="modelo_logico.png" alt="Modelo Lógico de Relacionamentos" width="85%">
+  <img src="Diagrama.png" alt="Modelo Lógico de Relacionamentos" width="85%">
 </p>
 
 #### 3. Modelo Físico (Tipagem e Chaves)
 Visão técnica final contendo a especificação das chaves primárias (`PRIMARY KEY`), chaves estrangeiras (`FOREIGN KEY`) e os tipos de dados (`Numeric`, `Text`, `VARCHAR`, `Datetime`) configurados para cada coluna no banco de dados.
 <p align="center">
-  <img src="modelo_fisico.png" alt="Modelo Físico e Tipagem das Tabelas" width="85%">
+  <img src="Modelagem_banco.png" alt="Modelo Físico e Tipagem das Tabelas" width="85%">
 </p>
 
 ---
